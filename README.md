@@ -1,4 +1,4 @@
-# GHBit
+# GHBit 手柄资源包
 
 Extension for Yahboom GHBit
 
